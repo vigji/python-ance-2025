@@ -1,4 +1,4 @@
-# Python for Data Analysis  - 2025
+# Python for Data Analysis  - ANCE 2025
 
 <img align="right" width="400" height="400" src="https://imgs.xkcd.com/comics/python.png">
 
